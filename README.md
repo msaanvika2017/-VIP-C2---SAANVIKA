@@ -1,8 +1,9 @@
 # 🏠 RentEase - House Rent Application
 
-A full-stack House Rent Application built with **React** and **JSON Server**.  
-**Designed & Developed by: Saanvika**  
-📧 Contact: xyz@gmail.com
+A full-stack House Rent Application built with **React** and **JSON Server**.
+
+**Designed & Developed by: Saanvika**
+📧 Contact: msaanvika2017@gmail.com
 
 ---
 
@@ -51,19 +52,18 @@ A full-stack House Rent Application built with **React** and **JSON Server**.
 
 ### Steps
 
-```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/house-rent-app.git
-cd house-rent-app
+git clone https://github.com/saanvika/rentease.git
+cd rentease
 
 # 2. Install dependencies
 npm install
 
 # 3. Start both React + JSON Server together
 npm start
-```
 
-The app will open at: **http://localhost:3000**  
+
+The app will open at: **http://localhost:3000**
 JSON Server API runs at: **http://localhost:3001**
 
 ---
@@ -79,7 +79,7 @@ JSON Server API runs at: **http://localhost:3001**
 
 ## 📁 Project Structure
 
-```
+
 house-rent-app/
 ├── public/
 │   └── index.html
@@ -109,24 +109,55 @@ house-rent-app/
 ├── db.json          ← Database (JSON Server)
 ├── package.json
 └── README.md
-```
 
----
+
+
 
 ## 📦 How to Push to GitHub
 
-```bash
+
 git init
 git add .
 git commit -m "Initial commit: RentEase House Rent Application"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/house-rent-app.git
+git remote add origin https://github.com/saanvika/rentease.git
 git push -u origin main
-```
+
 
 ---
 
 ## 📄 License
 
-This project was created as an academic submission.  
+This project was created for academic/learning purposes as part of a full-stack development project. It is released under the **MIT License** — you are free to use, copy, modify, and distribute this project with proper attribution.
+
+
+MIT License
+
+Copyright (c) 2026 Saanvika
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+
+
+
+## 🙋 Author
+
+**Saanvika**
+📧 your-email@gmail.com
+🔗 GitHub: [github.com/saanvika](https://github.com/saanvika)
+
+---
+
+⭐ If you found this project helpful, consider giving it a star on GitHub!eated as an academic submission.  
 © 2024 Saanvika — All rights reserved.
