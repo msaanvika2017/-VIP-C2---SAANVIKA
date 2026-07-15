@@ -12,8 +12,17 @@
       "furnished": "Semi-Furnished",
       "available": true,
       "description": "Beautiful modern apartment in the heart of Banjara Hills with all amenities. 24/7 security, power backup, and covered parking available.",
-      "amenities": ["Gym", "Swimming Pool", "Power Backup", "Parking", "Security"],
-      "images": ["https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800", "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800"],
+      "amenities": [
+        "Gym",
+        "Swimming Pool",
+        "Power Backup",
+        "Parking",
+        "Security"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800"
+      ],
       "landlordId": 2,
       "landlordName": "Rajesh Kumar",
       "landlordPhone": "+91-9876543210",
@@ -32,8 +41,18 @@
       "furnished": "Fully Furnished",
       "available": true,
       "description": "Luxurious 3BHK villa with a private garden, modular kitchen, and premium finishes throughout. Perfect for families.",
-      "amenities": ["Garden", "Parking", "Security", "Power Backup", "AC", "Modular Kitchen"],
-      "images": ["https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800", "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800"],
+      "amenities": [
+        "Garden",
+        "Parking",
+        "Security",
+        "Power Backup",
+        "AC",
+        "Modular Kitchen"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800"
+      ],
       "landlordId": 2,
       "landlordName": "Rajesh Kumar",
       "landlordPhone": "+91-9876543210",
@@ -52,8 +71,17 @@
       "furnished": "Fully Furnished",
       "available": true,
       "description": "Perfect studio for IT professionals near HITEC City. Fully furnished with high-speed internet, AC, and all appliances.",
-      "amenities": ["WiFi", "AC", "Washing Machine", "Security", "Power Backup"],
-      "images": ["https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800", "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800"],
+      "amenities": [
+        "WiFi",
+        "AC",
+        "Washing Machine",
+        "Security",
+        "Power Backup"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800"
+      ],
       "landlordId": 3,
       "landlordName": "Priya Sharma",
       "landlordPhone": "+91-9988776655",
@@ -72,8 +100,17 @@
       "furnished": "Unfurnished",
       "available": true,
       "description": "Spacious independent house in premium gated community near Financial District. Excellent connectivity and peaceful neighbourhood.",
-      "amenities": ["Garden", "Parking", "Security", "Generator", "Clubhouse"],
-      "images": ["https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800", "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800"],
+      "amenities": [
+        "Garden",
+        "Parking",
+        "Security",
+        "Generator",
+        "Clubhouse"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800"
+      ],
       "landlordId": 4,
       "landlordName": "Anil Reddy",
       "landlordPhone": "+91-9123456789",
@@ -92,8 +129,15 @@
       "furnished": "Semi-Furnished",
       "available": true,
       "description": "Affordable 1BHK flat ideal for bachelors and students. Close to metro station, markets, and colleges.",
-      "amenities": ["Parking", "Security", "Water Supply"],
-      "images": ["https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800", "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"],
+      "amenities": [
+        "Parking",
+        "Security",
+        "Water Supply"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
+      ],
       "landlordId": 3,
       "landlordName": "Priya Sharma",
       "landlordPhone": "+91-9988776655",
@@ -112,13 +156,75 @@
       "furnished": "Fully Furnished",
       "available": false,
       "description": "Premium top-floor apartment with a private terrace. Stunning city views, fully furnished with premium appliances.",
-      "amenities": ["Terrace", "Gym", "Parking", "Security", "AC", "Power Backup"],
-      "images": ["https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800", "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=800"],
+      "amenities": [
+        "Terrace",
+        "Gym",
+        "Parking",
+        "Security",
+        "AC",
+        "Power Backup"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+        "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=800"
+      ],
       "landlordId": 4,
       "landlordName": "Anil Reddy",
       "landlordPhone": "+91-9123456789",
       "postedDate": "2024-01-28",
       "rating": 4.9
+    },
+    {
+      "title": "modern hills",
+      "type": "Apartment",
+      "price": 20000,
+      "location": "banjara hills",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 98,
+      "furnished": "Unfurnished",
+      "available": true,
+      "description": "simple and sweet home",
+      "amenities": [],
+      "images": [
+        "https://images.nobroker.in/img/63a95d4fd522e9000151943b/63a95d4fd522e9000151943b_40176_331262_large.jpg"
+      ],
+      "landlordId": 2,
+      "landlordName": "Rajesh Kumar",
+      "landlordPhone": "+91-9876543210",
+      "postedDate": "2026-07-04",
+      "rating": 0,
+      "id": 7
+    },
+    {
+      "title": "DV township",
+      "type": "Apartment",
+      "price": 10000,
+      "location": "old safilguda",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1200,
+      "furnished": "Unfurnished",
+      "available": true,
+      "description": "A 2bhk apartment with 2 blocks,10 flats per floor",
+      "amenities": [
+        "Parking",
+        "Security",
+        "Lift",
+        "Terrace",
+        "Generator",
+        "Water Supply"
+      ],
+      "images": [
+        "https://th.bing.com/th/id/OIP.UUaFTYsE0XPIXuSlgjuKhwHaFy?w=219&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+        "https://th.bing.com/th/id/OIP.XjO10Jn_KOJjtqtjet-QtAHaFj?w=228&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+      ],
+      "landlordId": 7,
+      "landlordName": "Saanvi",
+      "landlordPhone": "8134258810",
+      "postedDate": "2026-07-04",
+      "rating": 0,
+      "id": 8
     }
   ],
   "users": [
@@ -129,7 +235,11 @@
       "password": "tenant123",
       "role": "tenant",
       "phone": "+91-9000000001",
-      "savedProperties": [1, 3]
+      "savedProperties": [
+        1,
+        3,
+        8
+      ]
     },
     {
       "id": 2,
@@ -157,6 +267,36 @@
       "role": "landlord",
       "phone": "+91-9123456789",
       "savedProperties": []
+    },
+    {
+      "name": "Saanvika",
+      "email": "msaanvika2017@gmail.com",
+      "phone": "8142710018",
+      "password": "Saanvi@1234",
+      "role": "tenant",
+      "savedProperties": [],
+      "bookings": [],
+      "id": 5
+    },
+    {
+      "name": "Saanvi",
+      "email": "msaanvi@gmail.com",
+      "phone": "8134258810",
+      "password": "123456",
+      "role": "tenant",
+      "savedProperties": [],
+      "bookings": [],
+      "id": 6
+    },
+    {
+      "name": "Saanvi",
+      "email": "saanvi@gmail.com",
+      "phone": "8134258810",
+      "password": "123456",
+      "role": "landlord",
+      "savedProperties": [],
+      "bookings": [],
+      "id": 7
     }
   ],
   "bookings": [
@@ -172,6 +312,71 @@
       "visitDate": "2024-03-10",
       "message": "I'd like to visit this property",
       "createdAt": "2024-02-20"
+    },
+    {
+      "propertyId": 5,
+      "tenantId": 5,
+      "tenantName": "Saanvika",
+      "tenantEmail": "msaanvika2017@gmail.com",
+      "tenantPhone": "8142710018",
+      "landlordId": 3,
+      "status": "cancelled",
+      "visitDate": "2026-07-05",
+      "message": "",
+      "createdAt": "2026-07-04",
+      "id": 2
+    },
+    {
+      "propertyId": 7,
+      "tenantId": 1,
+      "tenantName": "Demo Tenant",
+      "tenantEmail": "tenant@demo.com",
+      "tenantPhone": "+91-9000000001",
+      "landlordId": 2,
+      "status": "confirmed",
+      "visitDate": "2026-07-05",
+      "message": "can you please share more details ",
+      "createdAt": "2026-07-04",
+      "id": 3
+    },
+    {
+      "propertyId": 8,
+      "tenantId": 1,
+      "tenantName": "Demo Tenant",
+      "tenantEmail": "tenant@demo.com",
+      "tenantPhone": "+91-9000000001",
+      "landlordId": 7,
+      "status": "pending",
+      "visitDate": "2026-07-21",
+      "message": "would like to check first ",
+      "createdAt": "2026-07-04",
+      "id": 4
+    },
+    {
+      "propertyId": 8,
+      "tenantId": 1,
+      "tenantName": "Demo Tenant",
+      "tenantEmail": "tenant@demo.com",
+      "tenantPhone": "+91-9000000001",
+      "landlordId": 7,
+      "status": "pending",
+      "visitDate": "2026-07-29",
+      "message": "",
+      "createdAt": "2026-07-04",
+      "id": 5
+    },
+    {
+      "propertyId": 2,
+      "tenantId": 1,
+      "tenantName": "Demo Tenant",
+      "tenantEmail": "tenant@demo.com",
+      "tenantPhone": "+91-9000000001",
+      "landlordId": 2,
+      "status": "confirmed",
+      "visitDate": "2026-07-11",
+      "message": "hii",
+      "createdAt": "2026-07-07",
+      "id": 6
     }
   ],
   "reviews": [
@@ -192,7 +397,26 @@
       "rating": 4,
       "comment": "Great location for IT professionals. Small but cozy and well-equipped.",
       "date": "2024-02-10"
+    },
+    {
+      "propertyId": 8,
+      "userId": 1,
+      "userName": "Demo Tenant",
+      "rating": 3,
+      "comment": "good location",
+      "date": "2026-07-04",
+      "id": 3
     }
   ],
-  "contacts": []
+  "contacts": [
+    {
+      "name": "saa",
+      "email": "msaanvi@gmail.com",
+      "phone": "2834392384",
+      "subject": "Property Listing",
+      "message": "more suggestions",
+      "date": "2026-07-04",
+      "id": 1
+    }
+  ]
 }
