@@ -1,4 +1,4 @@
-# RentHaven - House Rent Management System
+# RentEase - House Rent Management System
 
 A complete full-stack House Rent Management System built using the MERN stack (MongoDB, Express, React, Node.js). It features secure user role authentications (Tenants & Admins), responsive premium glassmorphic interfaces, interactive property creation with file uploads, and a booking workflow.
 
